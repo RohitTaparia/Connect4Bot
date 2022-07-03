@@ -1,0 +1,132 @@
+
+
+
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+  background:  #b2aaff;
+  background-image: url('data:image/png;base64,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');
+}
+
+ol, ul {
+  padding-left: 30px;
+}
+
+.board-col {
+  display: block;
+  width: 100px;
+}
+
+.board-col:after {
+  clear: both;
+  content: "";
+  display:table;
+}
+
+.status {
+  margin-bottom: 10px;
+  font-size: 32px;
+  color: rgb(108, 248, 108);
+  text-align: center;
+}
+
+.square {
+  background: rgb(2, 39, 160);
+  border: 1px outset #999;
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 34px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 100px;
+  height: 80px;
+}
+
+.circle {
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  background: black;
+  margin: auto;
+}
+
+.red-player {
+  background: rgb(172, 12, 12);
+}
+
+.yellow-player {
+  background: rgb(204, 175, 14);
+}
+
+.game-board {
+  width: 700px;
+  height: 500px;
+  display: flex;
+  margin: auto;
+}
+
+.square:focus {
+  outline: none;
+}
+
+.kbd-navigation .square:focus {
+  background: #ddd;
+}
+
+.game {
+  align-items: center;
+  z-index: 2;
+}
+
+.game-info {
+  margin-left: 100px;
+}
+
+h1 {
+  font-size: 64px;
+  color: rgb(221, 255, 31);
+  text-align: center;
+  width: 400px;
+  margin: auto;
+}
+.reset{
+  width: 150px;
+  height: 75px;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  font-size: x-large;
+  border: 4px solid crimson;
+  margin: 10px;
+}
+.mode{
+  width: 200px;
+  height: 75px;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  font-size: x-large;
+  border: 4px solid crimson;
+  margin: 10px;
+}
+.reset:hover
+{
+  background-color: rgb(255, 255, 255) ;
+  
+  color: rgb(0, 0, 0);
+}
+.mode:hover
+{
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
+.btn
+{
+
+  width: 400px;
+  height: 75px; 
+  align-content: center;
+  margin: auto;
+  display: flex;
+}
